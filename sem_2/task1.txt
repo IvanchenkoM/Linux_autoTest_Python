@@ -1,0 +1,6 @@
+Установить пакет pip3, выполнив в терминале команду:
+sudo apt install python3-pip
+Установить пакет pytest командой
+sudo pip3 install pytest
+Установить консольный архиватор командой
+sudo apt install p7zip-full
