@@ -1,0 +1,6 @@
+host: 0.0.0.0
+login: user2
+password: user!234
+file: p7zip-full
+folder_user: /home/user2/
+folder_in: /home/user/folder_in/

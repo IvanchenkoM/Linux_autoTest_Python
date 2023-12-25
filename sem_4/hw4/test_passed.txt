@@ -1,0 +1,16 @@
+/home/user/PycharmProjects/pythonProject/venv/bin/python /snap/pycharm-community/360/plugins/python-ce/helpers/pycharm/_jb_pytest_runner.py --path /home/user/PycharmProjects/pythonProject/hw/test_hw4.py
+Testing started at 08:40 ...
+Launching pytest with arguments /home/user/PycharmProjects/pythonProject/hw/test_hw4.py --no-header --no-summary -q in /home/user/PycharmProjects/pythonProject/hw
+
+============================= test session starts ==============================
+collecting ... collected 4 items
+
+test_hw4.py::TestSeminar::test_step1
+test_hw4.py::TestSeminar::test_step_2
+test_hw4.py::TestSeminar::test_step_3
+test_hw4.py::TestSeminar::test_step_4
+
+============================== 4 passed in 15.04s ==============================
+Загружаем файл /home/user/folder_in/p7zip-full.deb в каталог /home/user2/p7zip-full.deb
+PASSED                              [ 25%]PASSED                             [ 50%]PASSED                             [ 75%]PASSED                             [100%]
+Process finished with exit code 0
